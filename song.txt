@@ -3,11 +3,3 @@ Text2
 Text3
 Text4
 
-Text3
-Text4
-
-Some new text
-`Some new
-
-New
-And here
